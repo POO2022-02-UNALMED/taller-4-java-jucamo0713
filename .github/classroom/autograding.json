@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test main",
+      "setup": "",
+      "run": "gradle test --tests *TestCoincidencia",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    }
+  ]
+}
